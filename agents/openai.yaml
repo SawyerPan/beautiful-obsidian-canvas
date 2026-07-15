@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beautiful Obsidian Canvas"
+  short_description: "创建并美化可编辑的 Obsidian Canvas 画板"
+  default_prompt: "使用 $beautiful-obsidian-canvas 为我创建一张语义正确、对齐且可编辑的 Obsidian 画布；如果我没指定，请先提供风格和布局选项。"
